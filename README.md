@@ -1,7 +1,18 @@
-# Welcome to the Camunda Community Hub Repository Template!
+# Awesome Camunda and Robotframework project
+[Robotframework](https://robotframework.org/) is an Open Source framework that can be used for test automation and for robotic process automation (RPA). There are various ways how Robotframework can be combined with Camunda. This repo is for the collection of projects around Robotframework in combination with Camunda. 
 
-## A project to empower our open source community extension maintainers, and encourage new contributors to get started contributing to the Camunda open source ecosystem.
+## External Task clients
+Robotframework is Python based. Therefore, it uses Camunda's REST Api. There are various External Task Clients written in Python that can be used. 
 
-If you are building a new Camunda Community extension, please follow the instructions detailed in our [Community Repository](https://github.com/camunda-community-hub/community). Once those steps have been completed, please feel free to make use of this repository to build your new extension from!
+There is one External task client that 
+
+This library provides an [Robotframework External Task client](https://github.com/MarketSquare/robotframework-camunda) 
+
+
+
+
+## Robotframework orchestration with Camunda
+[Demo](https://github.com/TheProjectAurora/camunda-robotframework-demo/)
+
 
 
