@@ -1,4 +1,4 @@
-# Awesome Camunda and Robotframework project
+# Awesome Camunda and Robotframework projects
 [Robotframework](https://robotframework.org/) is an Open Source framework that can be used for test automation and for robotic process automation (RPA). There are various ways how Robotframework can be combined with Camunda. This repo is a collection of projects around Robotframework in combination with Camunda. 
 
 ## External Task clients
