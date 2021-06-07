@@ -4,7 +4,7 @@
 ## External Task clients
 Robotframework is Python based. Therefore, it uses Camunda's REST Api. There are various External Task Clients written in Python that can be used. 
 
-There is one External task client that is specific for Robotframework. It enables the usage of keywords in Robotframework tasks to coomunicate with Camunda: 
+There is one External task client that is specific for Robotframework. It enables the usage of keywords in Robotframework tasks to communicate with Camunda: 
  - [Robotframework External Task client](https://github.com/MarketSquare/robotframework-camunda)
  - [Project](https://gitlab.com/noordsestern/camunda-invade-example) (a showcase, how to use the External Task Client above)
  - [Blogpost](https://www.postadress-techblog.de/post/camunda-robot-framework) (for more information on the External Task Client)
@@ -18,7 +18,7 @@ If you use Robotframework already Camunda can help you with orchestrating your R
  
  
 ## Robotframework for UI Automation
-If you use Camunda already Robotframework can help ypu with UI Automation. It provides an Open Source RPA solution. Here is an example how this can be implemented:
+If you use Camunda already Robotframework can help you with UI Automation. It provides an Open Source RPA solution. Here is an example how this can be implemented:
 - [Project](https://gitlab.com/atsoukka/robot-rpa-playground/)
  
 ## Running Robotframework bots
