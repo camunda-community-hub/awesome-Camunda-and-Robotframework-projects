@@ -16,6 +16,10 @@ There is one External task client that is implemented as Robot Framework keyword
 - [Automate This! 'Camunda and Robot Framework' Blogpost](https://www.postadress-techblog.de/post/camunda-robot-framework) (for more information on the External task client)
 - [Robocon 2021 Presentation: 'Orchestrating Robotic Tasks with Camunda'](https://robocon.io/#robotframework-camunda-library:-orchestrating-robotic-tasks-with-camunda) presented by [Markus Stahl](https://gitlab.com/noordsestern)
 
+There is another incubating External task client, which uses Robocorp [RCC toolchain](https://robocorp.com/docs/rcc/overview) for executing Robot Framework bots:
+
+* [carrot-rcc](https://pypi.org/project/carrot-rcc/) – Camunda external task Robot Framework RCC client
+
 
 ## Robot Framework task orchestration with Camunda
 
