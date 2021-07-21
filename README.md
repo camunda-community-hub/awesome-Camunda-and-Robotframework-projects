@@ -16,7 +16,8 @@ There is one External task client that is specific to Robot Framework. It enable
 If you're using Robot Framework already, Camunda can help you with orchestrating your Robot Framework tasks. A Robot Framework task is like a Service task.  Here is an example project:
 
  - [NorthCode's 'The Project Aurora' Camunda Robot Framework Demo](https://github.com/TheProjectAurora/camunda-robotframework-demo/)
- 
+ - Webservice for wrapping Robot service tasks: [robotframework-webservice](https://github.com/postadress/robotframework-webservice)
+
  
 ### Robot Framework for UI Automation
 
